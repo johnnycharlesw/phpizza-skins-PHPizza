@@ -3,11 +3,11 @@
     "type": "skin",
 
     "enableDynamicCSSAndJS": true,
-    "stylesheets": ["style.css"],
+    "stylesheets": ["css/style.css"],
     "themeStylesheets": {
-        "system": "style-theme-system.css",
-        "light": "style-theme-light.css",
-        "dark": "style-theme-dark.css"
+        "system": "css/style-theme-system.css",
+        "light": "css/style-theme-light.css",
+        "dark": "css/style-theme-dark.css"
     },
 
     "skin": {
