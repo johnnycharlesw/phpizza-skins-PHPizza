@@ -22,18 +22,33 @@ header > ul > li > a {
   font-size: 16px;
 }
 
+div.phpizza-skin-phpizza {
+  height: 99.5%;
+  width: 99.5%;
+}
+
 body {
   font-family: "Inter", "Roboto", sans-serif;
+  height: 99.5%;
+  width: 99.5%;
+}
+
+html {
+  height: 99.5%;
+  width: 99.5%;
 }
 
 div.sidebar-and-content {
   display: flex;
+  height: 74.5%;
+  width: 99.5%;
 }
 
 aside.sidebar {
   display: block;
   box-shadow: 5px 5px 5px gray;
   padding-right: 5px;
+  height: 100%;
 }
 aside.sidebar > ul {
   list-style-type: none;
