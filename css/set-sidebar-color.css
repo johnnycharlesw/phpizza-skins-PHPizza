@@ -1,0 +1,12 @@
+aside.sidebar {
+  background-color: var(--header-bg-color);
+  color: var(--fg-color);
+}
+
+/* Modern header links blend in with the bar */
+aside.sidebar > ul > li > a, aside.sidebar > ul > li > p > a {
+  color: var(--fg-color) !important;
+  text-decoration: none !important;
+}
+
+/*# sourceMappingURL=set-sidebar-color.css.map */

@@ -9,7 +9,7 @@
     ![
         This site is powered by PHPizza
     ](
-    {{{poweredByImageURL}}}
+    /assets/phpizza-cms-branding/powered-by.png
     )
 ](
     https://github.com/johnnycharlesw/phpizza

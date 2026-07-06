@@ -30,6 +30,15 @@
   a:visited:hover {
     color: var(--link-color-visited-hover);
   }
+  aside.sidebar {
+    background-color: var(--header-bg-color);
+    color: var(--fg-color);
+  }
+  /* Modern header links blend in with the bar */
+  aside.sidebar > ul > li > a, aside.sidebar > ul > li > p > a {
+    color: var(--fg-color) !important;
+    text-decoration: none !important;
+  }
   :root {
     color-scheme: light;
     --bg-color:white;
@@ -67,6 +76,15 @@
   }
   a:visited:hover {
     color: var(--link-color-visited-hover);
+  }
+  aside.sidebar {
+    background-color: var(--header-bg-color);
+    color: var(--fg-color);
+  }
+  /* Modern header links blend in with the bar */
+  aside.sidebar > ul > li > a, aside.sidebar > ul > li > p > a {
+    color: var(--fg-color) !important;
+    text-decoration: none !important;
   }
   /* CSS to handle dark mode */
   :root {
