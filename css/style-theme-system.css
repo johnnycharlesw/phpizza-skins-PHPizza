@@ -97,6 +97,12 @@
     --link-color-visited: purple;
     --link-color-visited-hover: blueviolet;
   }
+  .icon {
+    filter: invert(70%);
+  }
+  div#user-dropdown.open {
+    background-color: #2b3035;
+  }
 }
 
 /*# sourceMappingURL=style-theme-system.css.map */

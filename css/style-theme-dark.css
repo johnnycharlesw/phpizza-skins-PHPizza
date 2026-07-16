@@ -54,4 +54,12 @@ aside.sidebar > ul > li > a, aside.sidebar > ul > li > p > a {
   --link-color-visited-hover: blueviolet;
 }
 
+.icon {
+  filter: invert(70%);
+}
+
+div#user-dropdown.open {
+  background-color: #2b3035;
+}
+
 /*# sourceMappingURL=style-theme-dark.css.map */

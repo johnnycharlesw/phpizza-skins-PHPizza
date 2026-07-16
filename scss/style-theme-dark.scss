@@ -10,3 +10,13 @@
     --link-color-visited: purple;
     --link-color-visited-hover: blueviolet;
 } // recompile again, gulp, and again
+
+.icon {
+
+  filter: invert(70%);
+
+}
+
+div#user-dropdown.open {
+    background-color: #2b3035;
+}
