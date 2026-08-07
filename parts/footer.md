@@ -7,6 +7,15 @@
 </div>
 * [
     ![
+        This site is powered by {{{osName}}}
+    ](
+    {{{osPoweredByImageUrl}}}
+    )
+](
+    {{{osPoweredByLinkUrl}}}
+)
+* [
+    ![
         This site is powered by PHPizza
     ](
     /assets/phpizza-cms-branding/powered-by.png
