@@ -45,7 +45,7 @@ aside.sidebar > ul > li > a, aside.sidebar > ul > li > p > a {
 
 :root {
   color-scheme: dark;
-  --bg-color:black;
+  --bg-color:#111;
   --fg-color:white;
   --header-bg-color: #2b3035;
   --link-color: rgb(0, 119, 255);

@@ -89,7 +89,7 @@
   /* CSS to handle dark mode */
   :root {
     color-scheme: dark;
-    --bg-color:black;
+    --bg-color:#111;
     --fg-color:white;
     --header-bg-color: #2b3035;
     --link-color: rgb(0, 119, 255);
