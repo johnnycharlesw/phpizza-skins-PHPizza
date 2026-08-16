@@ -41,9 +41,9 @@
   }
   :root {
     color-scheme: light;
-    --bg-color:white;
+    --bg-color:rgb(253, 251, 251);
     --fg-color:black;
-    --header-bg-color: #f8f9fa;
+    --header-bg-color: #d1d2d3;
     --link-color: blue;
     --link-color-hover: lightskyblue;
     --link-color-visited: purple;
