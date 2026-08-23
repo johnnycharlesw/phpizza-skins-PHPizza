@@ -18,7 +18,7 @@
     ![
         This site is powered by PHPizza
     ](
-    /assets/phpizza-cms-branding/powered-by.png
+    /assets/phpizza-branding/powered-by.png
     )
 ](
     https://github.com/johnnycharlesw/phpizza
